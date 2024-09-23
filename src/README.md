@@ -8,17 +8,17 @@ bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 bgImageStyle:
   background-attachment: fixed
 heroText: 我的博客简历
-tagline: 您好，我是哇哈哈，毕业于华南师范大学。在校期间积累了不错的编程经验，可熟练运用主流分布式技术栈，独立开发项目。V5 TEST
+tagline: 您好，我叫温海航，毕业于华南师范大学。在校期间积累了不错的编程经验，可熟练运用主流分布式技术栈，独立开发项目。V5 TEST
 actions:
   - text: 查看简历 👣
     link: ./md/
     type: primary
 
   - text: 我的项目 💐
-    link: #
+    link: https://openai.gaga.plus/
 
 highlights:
-  - header:
+  - header: 
     bgImage: /assets/bg/6-light.svg
     bgImageDark: /assets/bg/6-dark.svg
     features:
@@ -36,7 +36,7 @@ highlights:
         icon: table-columns
         details: 23年8月，学习 OpenAi 技术，学习 OpenAi SDK 开发，完成应用场景的对接使用「涵盖支付对接」。
         link: https://theme-hope.vuejs.press/zh/guide/markdown/tabs.html
-
+        
       - title: SpringBoot Stater
         icon: table-columns
         details: 23年10月，通过对业务项目开发中的学习，对同类共性功能的重复开发，凝练成通用的服务治理组件。
