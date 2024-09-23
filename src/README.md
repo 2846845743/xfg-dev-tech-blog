@@ -8,7 +8,7 @@ bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 bgImageStyle:
   background-attachment: fixed
 heroText: 我的博客简历
-tagline: 您好，caonima，毕业于华南师范大学。在校期间积累了不错的编程经验，可熟练运用主流分布式技术栈，独立开发项目。V5 TEST
+tagline: 您好，我是哇哈哈，毕业于华南师范大学。在校期间积累了不错的编程经验，可熟练运用主流分布式技术栈，独立开发项目。V5 TEST
 actions:
   - text: 查看简历 👣
     link: ./md/
@@ -51,9 +51,7 @@ footer: |-
 
 ::: tip
 
-个人在大学/实习期间，参与过多次的技术类赛事项目，熟练使用各类技术框架，积累了丰富的开发经验。
-同时兼具着对技术的喜爱，长期对技术源码进行钻研学习吸收其中的设计精髓。
-深入mysql，redis的原理，熟悉jvm，juc并发编程艺术。
+个人在大学/实习期间，参与过多次的技术类赛事项目，熟练使用各类技术框架，积累了丰富的开发经验。同时兼具着对技术的喜爱，长期对技术源码进行钻研学习吸收其中的设计精髓。尤其对 MyBatis 源码学习后，开发了一款监控 SQL 慢查询以及优化建议插件。并将此插件发布到了 IDEA Plugin 插件市场，半年获得了3000次下载量，获得了非常好的认可，个人也得到了非常多的成长。地址：http://github.com/xxxx/xxxx
 
 :::
 
